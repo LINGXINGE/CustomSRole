@@ -61,7 +61,7 @@ namespace MyPlugin.Roles
 
 ## API Documentation
 
-### Required Properties (Abstract)
+### Required Properties 
 
 | Property | Type | Description |
 |----------|------|-------------|
@@ -79,7 +79,7 @@ namespace MyPlugin.Roles
 | `SpawnPositions` | `List<Vector3>` | List of spawn positions |
 | `Inventory` | `List<ItemType>` | Starting inventory items |
 
-### Optional Properties (Virtual)
+### Optional Properties 
 
 
 
