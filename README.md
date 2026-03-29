@@ -75,19 +75,16 @@ namespace MyPlugin.Roles
 | `CustomRoleType` | `int` | Custom role type identifier |
 | `CustomFaction` | `int` | Custom faction identifier |
 | `EnemyFactions` | `List<int>` | List of enemy faction IDs |
+| `Health` | `float` | Maximum health |
+| `HumeShield` | `float` | Hume shield value |
+| `Scale` | `Vector3` | Player scale |
 | `SpawnChance` | `float` | Spawn chance percentage |
 | `SpawnPositions` | `List<Vector3>` | List of spawn positions |
 | `Inventory` | `List<ItemType>` | Starting inventory items |
 
 ### Optional Properties (Virtual)
 
-#### Basic Attributes
 
-| Property | Type | Default | Description |
-|----------|------|---------|-------------|
-| `Health` | `float` | 100f | Maximum health |
-| `HumeShield` | `float` | 0f | Hume shield value |
-| `Scale` | `Vector3` | Vector3.one | Player scale |
 
 #### Spawn Configuration
 
