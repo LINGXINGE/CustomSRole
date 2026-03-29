@@ -268,10 +268,7 @@ namespace MyPlugin.Roles
 
 [MIT](LICENSE)
 
-## Contributing
-
-Issues and Pull Requests are welcome!
-
-## Support
+## Support And Bug Report
 
 If you encounter any issues, please submit them on GitHub Issues.
+Or send email to 1801665309@qq.com
