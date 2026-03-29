@@ -1,6 +1,6 @@
 ## Language
-### [English](https://github.com/LINGXINGE/CustomSRole/blob/main/README)
-### [Chinese](https://github.com/LINGXINGE/CustomSRole/blob/main/README_CN)
+### [English](https://github.com/LINGXINGE/CustomSRole/blob/main/README.md)
+### [Chinese](https://github.com/LINGXINGE/CustomSRole/blob/main/README_CN.md)
 
 # CustomSRole
 A plugin modeled after EXILED.CustomRole, with more functions than EXCustomRole For SCP：SL
