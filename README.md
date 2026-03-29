@@ -12,8 +12,7 @@ A plugin modeled after EXILED.CustomRole, with more functions than EXCustomRole 
 ## Installation
 
 1. Ensure [EXILED](https://github.com/Exiled-Team/EXILED) is installed
-2. Place `CustomSRole.dll` and `HintServiceMeow-Exiled` into `EXILED/Plugins` folder (You also need HSM dependencies)
-[HSM](https://github.com/MeowServer/HintServiceMeow/releases/tag/V5.5.1)
+2. Place `CustomSRole.dll` and `HintServiceMeow-Exiled` into `EXILED/Plugins` folder 
 3. Restart the server
 
 ## Quick Start
@@ -262,7 +261,8 @@ namespace MyPlugin.Roles
 
 ## Dependencies
 
-- [EXILED](https://github.com/Exiled-Team/EXILED) >= 9.0.0
+- [EXILED](https://github.com/Exiled-Team/EXILED) = 9.13.3
+- [HSM](https://github.com/MeowServer/HintServiceMeow/releases/tag/V5.5.1) = 5.5.1
 
 ## License
 
