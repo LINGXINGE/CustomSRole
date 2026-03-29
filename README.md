@@ -6,11 +6,8 @@ A plugin modeled after EXILED.CustomRole, with more functions than EXCustomRole 
 -  **Custom Role System** - Create unique custom roles with custom attributes
 -  **Auto Spawn System** - Chance-based random role assignment on player spawn
 -  **Faction System** - Custom factions with ally/enemy relationships and friendly fire protection
--  **Respawn System** - Automatic respawn after death with configurable limits
--  **Spawn Location** - Flexible spawn position configuration (rooms or coordinates)
--  **Damage Modifiers** - Custom incoming and outgoing damage multipliers
--  **Inventory System** - Custom starting items and ammo
 -  **Role Info Display** - Persistent role info hint and spawn message
+-  **And More....**
 
 ## Installation
 
